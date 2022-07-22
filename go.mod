@@ -1,4 +1,4 @@
-module github.com/ordovician/arenatree
+module github.com/ordovician/binarytree
 
 go 1.18
 
